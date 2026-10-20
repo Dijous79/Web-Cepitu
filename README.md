@@ -43,4 +43,5 @@ i obre <http://localhost:8000>.
 
 ## Publicar
 
-Activa GitHub Pages a *Settings → Pages* amb la branca `main` i la carpeta arrel.
+Publicada amb GitHub Pages (branca `main`, carpeta arrel) a
+<https://dijous79.github.io/Web-Cepitu/>. Cada push a `main` la torna a desplegar.
